@@ -21,3 +21,4 @@ hello weihao! hello git!
 111111111111111111111111
 222222222222222222222222 by weihao
 测试ssh远程免密登陆
+从远程pull本地测试ssh成功，现从本地push远程测试ssh
